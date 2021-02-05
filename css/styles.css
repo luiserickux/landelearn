@@ -40,6 +40,7 @@ header nav>div {
 }
 
 .logo a {
+    height: 56px;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: var(--tamaño-subtitulo);
@@ -47,8 +48,8 @@ header nav>div {
     color: var(--solido-oceano);
 }
 
-.logo a span {
-    color: var(--solido-fantasia);
+.logo a img {
+    width: 56px;
 }
 
 .enlaces {
@@ -482,6 +483,7 @@ footer>div .logo {
 }
 
 footer>div .logo a {
+    height: 100%;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: var(--tamaño-subtitulo);
