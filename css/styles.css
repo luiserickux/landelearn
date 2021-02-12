@@ -40,7 +40,7 @@ header nav>div {
 }
 
 .logo a {
-    height: 56px;
+    width: 56px;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: var(--tamaño-subtitulo);
@@ -49,7 +49,7 @@ header nav>div {
 }
 
 .logo a img {
-    width: 56px;
+    height: 48px;
 }
 
 .enlaces {
