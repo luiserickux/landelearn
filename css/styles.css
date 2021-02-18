@@ -58,17 +58,17 @@ header nav>div {
     justify-content: center;
 }
 
-.enlaces li {
+.enlaces ul li {
     list-style: none;
     display: inline-block;
     margin: 8px 12px;
 }
 
-.enlaces li:nth-child(3) {
+.enlaces ul li:nth-child(3) {
     margin: 8px 0px 8px 20px;
 }
 
-.enlaces li a {
+.enlaces ul li a {
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
     line-height: 44px;
@@ -82,7 +82,7 @@ header nav>div {
     border-bottom: 5px solid var(--solido-oceano);
 }
 
-.enlaces li a.boton-ingresar {
+.enlaces ul li a.boton-ingresar {
     background: var(--degradado-oceano);
     border-radius: 50px;
     color: white;
