@@ -1,5 +1,5 @@
 # LandE Learn
-_____
+
 ## ¿Qué es esto?
 Es un proyecto a largo plazo, esta es la versión de prueba para evaluar el diseño de la web en general, tiene el objetivo de recabar feedback para obtener errores de experiencia de usuario y solucionar dichos errores.
 
